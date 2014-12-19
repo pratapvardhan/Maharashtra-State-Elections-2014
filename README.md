@@ -9,3 +9,13 @@ Analysis of Maharashtra State Elections - 2014
 [Constituency scraper](http://nbviewer.ipython.org/github/pratapvardhan/Maharashtra-State-Elections-2014/blob/master/constituency.ipynb) to scrape Constituency-wise [data](https://github.com/pratapvardhan/Maharashtra-State-Elections-2014/blob/master/eci-2014-states-constituency-wise.csv).
 
 [Candidate scraper](http://nbviewer.ipython.org/github/pratapvardhan/Maharashtra-State-Elections-2014/blob/master/candidate.ipynb) to scrape Candidate-wise [data](https://github.com/pratapvardhan/Maharashtra-State-Elections-2014/blob/master/eci-2014-states-candidate-wise.csv).
+
+###Media
+
+Few of works in media using this data
+
+[Charts: Break-ups or not, BJP would have come out on top in Maharashtra](http://www.firstpost.com/politics/maharashtra-break-stats-bjp-emerged-top-scenarios-1767039.html) - Firstpost
+
+[Election math: What might have been… If Maharashtra’s alliances had remained in place](http://indianexpress.com/article/india/politics/what-might-have-been-if-maharashtras-alliances-had-remained-in-place/) - The Indian Express
+
+[The Crest and Trough of a Wave](http://www.thehindu.com/opinion/blogs/blog-datadelve/article6551202.ece) - The Hindu
