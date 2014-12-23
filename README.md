@@ -18,3 +18,9 @@ Few of the works published in media using this dataset.
 [Constituency scraper](http://nbviewer.ipython.org/github/pratapvardhan/Maharashtra-State-Elections-2014/blob/master/constituency.ipynb) to scrape Constituency-wise [data](https://github.com/pratapvardhan/Maharashtra-State-Elections-2014/blob/master/eci-2014-states-constituency-wise.csv).
 
 [Candidate scraper](http://nbviewer.ipython.org/github/pratapvardhan/Maharashtra-State-Elections-2014/blob/master/candidate.ipynb) to scrape Candidate-wise [data](https://github.com/pratapvardhan/Maharashtra-State-Elections-2014/blob/master/eci-2014-states-candidate-wise.csv).
+
+
+###Notebooks
+
+
+[Exploratory Analysis - Maharashtra State Elections-2014](http://nbviewer.ipython.org/github/pratapvardhan/Maharashtra-State-Elections-2014/blob/master/Exploratory-Analysis-Maharashtra-State-Elections-2014.ipynb) - covers analysis done for [Indian Express](http://indianexpress.com/article/india/politics/what-might-have-been-if-maharashtras-alliances-had-remained-in-place/) and [Firstpost](http://www.firstpost.com/politics/maharashtra-break-stats-bjp-emerged-top-scenarios-1767039.html) stories.
