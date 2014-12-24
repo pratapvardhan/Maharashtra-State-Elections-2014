@@ -22,5 +22,6 @@ Few of the works published in media using this dataset.
 
 ###Notebooks
 
-
 [Exploratory Analysis - Maharashtra State Elections-2014](http://nbviewer.ipython.org/github/pratapvardhan/Maharashtra-State-Elections-2014/blob/master/Exploratory-Analysis-Maharashtra-State-Elections-2014.ipynb) - covers analysis done for [Indian Express](http://indianexpress.com/article/india/politics/what-might-have-been-if-maharashtras-alliances-had-remained-in-place/) and [Firstpost](http://www.firstpost.com/politics/maharashtra-break-stats-bjp-emerged-top-scenarios-1767039.html) stories.
+
+[The Hindu Crest](http://nbviewer.ipython.org/github/pratapvardhan/Maharashtra-State-Elections-2014/blob/master/The-Hindu-Crest.ipynb) - covers analysis done for [The Hindu](http://www.thehindu.com/opinion/blogs/blog-datadelve/article6551202.ece)
